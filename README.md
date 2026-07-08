@@ -1,7 +1,7 @@
 # Serveur privé WAKFU
 
 
-les fichiers du serveurs ne seront jamais publié
+les fichiers du serveurs ne seront jamais publié !
 
 Le serveur Utilisera la version 1.92 de wakfu (08/07/2026)
 
