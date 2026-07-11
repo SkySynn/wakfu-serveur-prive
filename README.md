@@ -11,7 +11,7 @@ voici la roadmap du développement:
 - 🟢 connexion avec le client
 - 🟢 selection de personnage en fonction du compte
 - 🟢 creation du personnage en fonction du compte
-- 🟢 parser GameAccountData RANCH/CharacterInformationMessage/friendList
+- 🟢 ajout pré requis pour entrée dans le monde (par fichier décompilé)
 - 🔴 entrée dans le monde avec le bon personnage
 - 🔴 déplacement du personnage
 - 🔴 déplacement des entitées
