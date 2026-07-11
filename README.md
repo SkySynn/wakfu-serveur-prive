@@ -37,8 +37,7 @@ voila quelque idées que j'ai eu:
 - 🔴 rework des items wakfu
 
 
-pour les classements, les joueurs gagneront des ogrines, cosmetique et items exclusive  
-
+Pour les classements, les joueurs gagneront des ogrines, des cosmétiques et des objets exclusifs.
 ----
 
 
