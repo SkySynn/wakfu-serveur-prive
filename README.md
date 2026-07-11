@@ -13,7 +13,7 @@ voici la roadmap du développement:
 - 🟢 creation du personnage en fonction du compte
 - 🟢 ajout pré requis pour entrée dans le monde (par fichier décompilé)
 - 🟢 entrée dans le monde avec le bon personnage
-- 🔴 déplacement du personnage
+- 🟢 déplacement du personnage
 - 🔴 creation de la base de donnée (l'essentiel seulement) 
 - 🔴 déplacement des entitées
 - 🔴 gestion des recoltes (auto spawn)
