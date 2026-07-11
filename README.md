@@ -16,12 +16,14 @@ voici la roadmap du développement:
 - 🟢 déplacement du personnage
 - 🔴 creation de la base de donnée (l'essentiel seulement) 
 - 🔴 déplacement des entitées
-- 🔴 gestion des recoltes (auto spawn)
+- 🔴 gestion des recoltes
+- 🔴 ajout tchat
 - 🔴 gestion de la plantation (havre sac)
 - 🔴 gestion du combat (avec mobIA/drop)
 - 🔴 gestion des PNJ
 - 🔴 gestion metier de craft
 - 🔴 gestion des QE
+- 🔴 ajout boutique 
 
 ---
 une fois que tout fonctionne bien (non a l'identique mais quelque chose qui s'en rapproche), viendra les modifications du serveur et du client. 
