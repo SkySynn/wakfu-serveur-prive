@@ -16,7 +16,7 @@ voici la roadmap du développement:
 - 🟢 déplacement du personnage
 - 🟢 cellule de téléportation fonctionnel
 - 🔴 creation de la base de donnée (l'essentiel seulement) 
-- 🔴 déplacement des entitées
+- 🟢 déplacement des entitées
 - 🔴 gestion des recoltes
 - 🔴 ajout tchat
 - 🔴 gestion de la plantation (havre sac)
