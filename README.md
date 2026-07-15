@@ -21,7 +21,7 @@ voici la roadmap du développement:
 - 🔴 ajout tchat
 - 🔴 gestion de la plantation (havre sac)
 - 🔴 gestion du combat (avec mobIA/drop)
-- 🔴 gestion des PNJ
+- 🟢 gestion des PNJ (visuel seulement pour le moment)
 - 🔴 gestion metier de craft
 - 🔴 gestion des QE
 - 🔴 ajout boutique 
