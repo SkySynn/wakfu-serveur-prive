@@ -18,7 +18,7 @@ voici la roadmap du développement:
 - 🔴 creation de la base de donnée (l'essentiel seulement) 
 - 🟢 déplacement des entitées
 - 🔴 gestion des recoltes
-- 🔴 ajout tchat
+- 🟢 ajout tchat (100% fonctionnel)
 - 🔴 gestion de la plantation (havre sac)
 - 🔴 gestion du combat (avec mobIA/drop)
 - 🟢 gestion des PNJ (visuel seulement pour le moment et /spawn mis en place (sans permissions))
