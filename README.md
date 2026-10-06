@@ -15,14 +15,14 @@ voici la roadmap du développement:
 - 🟢 entrée dans le monde avec le bon personnage
 - 🟢 déplacement du personnage
 - 🟢 cellule de téléportation fonctionnel
-- 🔴 creation de la base de donnée (l'essentiel seulement) 
+- 🟢 creation de la base de donnée (l'essentiel seulement) 
 - 🟢 déplacement des entitées
-- 🔴 gestion des recoltes
+- 🟢 gestion des recoltes
 - 🟢 ajout tchat (100% fonctionnel)
-- 🔴 gestion de la plantation (havre sac)
+- 🟢 gestion de la plantation (havre sac)
 - 🔴 gestion du combat (avec mobIA/drop)
 - 🟢 gestion des PNJ (visuel seulement pour le moment et /spawn mis en place (sans permissions))
-- 🔴 gestion metier de craft
+- 🟢 gestion metier de craft
 - 🔴 gestion des QE
 - 🔴 ajout boutique 
 
